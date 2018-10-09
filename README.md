@@ -17,11 +17,19 @@ The next line contains the numbers of the array.
   *Example*
   
 INPUT:
+
 2
+
 3
+
 5 8 9
+
 2
+
 4 11
+
 OUTPUT:
+
 8
+
 5
